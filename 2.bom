@@ -1,0 +1,43 @@
+  Revised: Tuesday, June 07, 2016
+XX          Revision: 1.0
+
+XX
+
+
+
+
+
+Bill Of Materials           June 9,2016      17:23:05	Page1
+
+Item	Quantity	Reference	Part	Manufacturer	Description	Spec
+______________________________________________
+
+Bead	29	B1,B2,B3,B8,B9,B10,B11,B12,B13,B14,B15,B18,B19,B20,B21,B22,B23,B24,B25,B26,B27,B28,B29,B30,B31,B32,B33,B37,B38	CIC10P121NC	Samsung	chip bead	2A, Z=120ohm, DCR=0.05
+Bead	9	B16,B17,B34,B35,B36,B39,B40,B41,B42	CIC21P121N	Samsung	Chip Bead	2A, Z=120ohm, DCR=0.05
+Connector	2	CON1,CON2	SGM20MDS4N0000	Positronic	Straight, Male	20 pin
+Capacitor	1	C1	EMVE630ADA4R7MF55G	United Chemi-Con	aluminum capacitor	4.7uF, Aluminum, 20%, 63V
+Capacitor	1	C2	EMVE101ADA220MHA0G	United Chemi-Con	aluminum capacitor	22uF, Aluminum, 20%, 63V
+Capacitor	1	C3	CL10B104KB8NNNC	Samsung	chip capacitor	0.1uF, X7R, 10%, 50V
+Capacitor	1	C4	CL10B103KB8NNNC	Samsung	chip capacitor	10nF, X7R, 10%, 50V
+Capacitor	4	C5,C7,C9,C13	CL10B105KO8NNNC	Samsung	chip capacitor	1uF, X7R, 10%, 16V
+Capacitor	2	C6,C10	CL10C010BB8NNNC	Samsung	chip capacitor	10pF, X7R, 10%, 50V
+Capacitor	5	C8,C11,C12,C14,C15	C1206C226K8RACTU	Kemet	chip capacitor	22uF, X7R, 10%, 10V
+TVS	1	D1	SMCJ33A	Microsemi	TVS, Uni-direction	1500W, 33V, Uni-directional
+TVS	17	D2,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,D22	SMCJ5.0A	Microsemi	TVS, Uni-direction	1500W, 5V, Uni-directional
+TVS	4	D3,D4,D5,D6	SMCJ14CA	Microsemi	TVS, Bi-idirection	1500W, 14V, Bi-directional
+Connector	2	J1,J3	T2M-115-01-L-D-SM-LC	Samtec	BtoB Terminal	30pin, dual, terminal
+Capacitor	1	L1	SLF7032T-4R7M1R7-2PF	TDK	Inductor	4.7uH, 1.7A, 33mohm
+Capacitor	2	L2,L3	SLF6028T-6R8M1R5	TDK	Inductor	6.8uH, 35mohm, 1.5A
+Poly Switch	20	PS1,PS2,PS4,PS5,PS7,PS8,PS9,PS10,PS11,PS12,PS13,PS14,PS15,PS16,PS17,PS18,PS19,PS20,PS21,PS22	nanoASMDC012F	TE	Poly Switch	0.12A,48V, 10A
+Poly Switch	1	PS3	miniASMDC075F/2	TE	Poly Switch	0.75A,24V, 40A
+Poly Switch	1	PS6	SMDC185F/33	TE	Poly Switch	1.85A,44V, 40A
+Resister	2	R1,R2	CRCW0603121RFKEAHP	Vishay	chip resistor, pulse proof	120ohm, 5%, 1/4W, 75V
+Resister	9	R3,R4,R8,R10,R11,R15,R17,R18,R19	RC1608F102CS	Samsung	chip resistor	0ohm, 1%, 1/10W, 50V
+Resister	4	R5,R6,R13,R14	RC1608F106CS	Samsung	chip resistor	1Mohm, 1%, 1/10W, 50V
+Resister	1	R7	RC1608F564CS	Samsung	chip resistor	300kohm, 1%, 1/10W, 50V
+Resister	1	R9	RC1608F304CS	Samsung	chip resistor	300kohm, 1%, 1/10W, 50V
+Resister	1	R12	RC1608F104CS	Samsung	chip resistor	100kohm, 1%, 1/10W, 50V
+Resister	1	R16	RC1608F334CS	Samsung	chip resistor	330kohm, 1%, 1/10W, 50V
+Module	1	U1	FGDS-2A-50V	Gaia	DC-DC Conveter	9V~36Vin, 5Vout, 2A
+Module	1	U2	MGDS-10-H-C	Gaia	EMI Filter	9V~50V, 2A
+IC	2	U3,U4	TPS62110MRSAREP	TI	DC/DC	17Vin, 1.5A, 1.2~15Vout

@@ -1,0 +1,86 @@
+  Revised: Wednesday, June 08, 2016
+XX          Revision: 1.0
+
+XX
+
+
+
+
+
+Bill Of Materials           June 11,2016      21:38:39	Page1
+
+Item	Quantity	Reference	Part	Manufacturer	Description	Spec
+______________________________________________
+
+Bead Array	15	BD1,BD2,BD3,BD4,BD5,BD6,	BK32164M121-T	TAIYO YUDEN	chip bead array	150mA, Z=120ohm, DCR=0.2
+		BD7,BD8,BD9,BD10,BD11,
+		BD12,BD13,BD14,BD15
+Bead	18	B1,B2,B3,B4,B5,B6,B7,B8,	CIC10P121NC	Samsung	chip bead	2A, Z=120ohm, DCR=0.05
+		B9,B10,B12,B13,B15,B16,
+		B17,B18,B19,B20
+Bead	2	B11,B14	CIC21P121N	Samsung	Chip Bead	2A, Z=120ohm, DCR=0.05
+Capacitor	22	C1,C3,C5,C10,C12,C13,C14,	CL10B104KB8NNNC	Samsung	chip capacitor	100nF, X7R, 10%, 50V
+		C15,C16,C17,C19,C20,C22,
+		C24,C25,C27,C28,C29,C86,
+		C89,C91,C92
+Capacitor	8	C2,C4,C9,C11,C18,C23,C26,	C0805C106K8RACTU	Kemet	chip capacitor	10uF, X7R, 10%, 10V
+		C90
+Capacitor	3	C6,C7,C8	CL21A335KPFNNNE	Samsung	chip capacitor	3.3uF, X5R, 10%, 10V
+Capacitor	1	C21	CL10B474KA8NNNC	Samsung	chip capacitor	470nF, X7R, 10%, 25V
+Capacitor	42	C30,C36,C37,C38,C39,C40,	CL10B103KB8NNNC	Samsung	chip capacitor	10nF, X7R, 10%, 50V
+		C41,C46,C47,C48,C49,C50,
+		C51,C52,C53,C54,C55,C56,
+		C57,C58,C59,C60,C64,C65,
+		C66,C67,C68,C69,C70,C71,
+		C72,C73,C77,C78,C79,C80,
+		C81,C82,C83,C84,C85,C88
+Capacitor	4	C31,C32,C33,C34	CL10B220KB8NNNC	Samsung	chip capacitor	22pF, X7R, 10%, 50V
+Capacitor	11	C35,C42,C43,C44,C45,C61,	CL10X106MP8NNN	Samsung	chip capacitor	10uF, X6S, 10%, 6.3V
+		C62,C63,C74,C75,C76
+Capacitor	1	C87	CL10B334KB8NNNC	Samsung	chip capacitor	330nF, X7R, 10%, 50V
+LED	7	D1,D2,D3,D5,D6,D7,D8	LTST-C170KGKT	Liteon	Chip LED	Green, 20mA
+Connector	2	J1,J2	S2M-115-02-L-D-LC	Samtec	BtoB Terminal	30pin, dual, socket
+Connector	1	J3	LAB0640-03	Hanlim	3pin, 2mm	3pin, right angle
+Connector	1	J4	T2M-110-01-S-D-SM-WT	Samtec	BtoC connector	20pin, Dual, Straight, Pin
+Connector	1	J5	T2M-105-01-S-D-SM-WT	Samtec	BtoC connector	10pin, Dual, Straight, Pin
+Header	1	J6	amp103310-1	AMP	2x5 header	2x5 header
+Pin Header	1	J7	TSW-105-07-G-D	Samtec	Header 2 X 10	Header 2x10, 2.54mm, A=6mm, B=3mm, 3A/250V
+Connector	1	J8	LAB0640-05	Hanlim	5pin 2mm	5pin, right angle
+FET	2	Q1,Q2	FDN5630	Fairchild	N channel MOSFET	60V, 1.7A
+Resister	5	RA1,RA2,RA3,RA4,RA5	RP164PJ104CS	Samsung	chip resistor	100kohm, Array4, 5%, 1/10W, 50V
+Resister	10	R1,R3,R5,R7,R8,R84,R85,	RC1608J103CS	Samsung	chip resistor	10kohm, 5%, 1/10W, 50V
+		R86,R87,R94
+Resister	10	R2,R6,R19,R20,R23,R39,	RC1608J220CS	Samsung	chip resistor	22ohm, 5%, 1/10W, 50V
+		R40,R41,R51,R88
+Resister	15	R4,R10,R15,R16,R21,R22,	RC1608F102CS	Samsung	chip resistor	0ohm, 1%, 1/10W, 50V
+		R25,R26,R27,R37,R42,R60,
+		R63,R64,R66
+Resister	1	R9	RC1608J472CS	Samsung	chip resistor	68kohm, 5%, 1/10W, 50V
+Resister	2	R11,R13	RC1608J104CS	Samsung	chip resistor	5%, 1/10W, 50V
+Resister	9	R12,R14,R57,R59,R65,R67,	RC1608J102CS	Samsung	chip resistor	1kohm, 5%, 1/10W, 50V
+		R68,R83,R93
+Resister	9	R17,R28,R29,R30,R33,R35,	RC1608J471CS	Panasonic	chip resistor	470ohm, 5%, 1/10W, 50V
+		R36,R38,R50
+Resister	2	R18,R24	RC1608J472CS	Samsung	chip resistor	4.7kohm, 5%, 1/10W, 50V
+Resister	6	R31,R32,R34,R58,R61,R62	RC1608J104CS	Samsung	chip resistor	100kohm, 5%, 1/10W, 50V
+Resister	2	R43,R44	RC1608J222CS	Samsung	chip resistor	2.2kohm, 5%, 1/10W, 50V
+Resister	1	R45	RC1608F182CS	Samsung	chip resistor	18kohm, 1%, 1/10W, 50V
+Resister	5	R46,R89,R90,R91,R92	RC1608J621CS	Samsung	chip resistor	620ohm, 5%, 1/10W, 50V
+Resister	5	R47,R49,R52,R54,R55	RC1608F103CS	Samsung	chip resistor	10kohm, 1%, 1/10W, 50V
+Resister	1	R48	RC1608J221CS	Samsung	chip resistor	220ohm, 5%, 1/10W, 50V
+Switch	1	SW1	STP1126	Sungmun	SMD tact switch 	2pin
+Switch	1	SW2	BSD-104	Bosung Electron	Dip switch	2.54mm, DIP-SW 8POS, Straight
+Capacitor	1	TC1	EMVE101ADA220MHA0G	United Chemi-Con	aluminum capacitor	33uF, Aluminum, 20%, 63V
+Test Point	15	TP1,TEP1,TP2,TEP2,TP3,	SMD Test Point		Test Point	DNP
+		TEP3,TEP4,TEP5,TEP6,TEP7,
+		TP12,TP13,TP14,TP15,TEP0
+IC	2	U1,U2	SN65HVD11QD	TI	RS485 Transceivers	1Tx, 1Rx, 3.3V, 10Mbps
+Module	1	U3	HI-8425PQIF	Holt Inc	discrete to digital	9V~50V, 2A
+IC	2	U4,U5	SN74LV244APW	TI	Buffer	Octal
+IC	1	U6	MAX3222EEUP	Maxim	RS232 Transceiver	3.3V, 1Mbps
+IC	1	U7	LM124D	TI	Quad OP Amp	3~32V
+IC	1	U8	REF3230AIDBVT	TI	Voltage Reference IC	3.0V, 10mA
+IC	1	U9	TPS73133DBVT	TI	LDO	3.3Vout, 150mA, 30mV dropout
+IC	1	U10	TLV5618AQD	TI	12Bit DAC	Dual 12bit
+IC	1	U11	TLV1548QDBREP	TI	10Bit ADC	10bit, SAR
+IC	1	U12	CAT4101TV-T75	On semi	LED Driver	1A PWM Dimming

@@ -1,0 +1,32 @@
+  Revised: Tuesday, June 07, 2016
+XX          Revision: 1.0
+
+XX
+
+
+
+
+
+Bill Of Materials           June 9,2016      17:23:34	Page1
+
+Item	Quantity	Reference	Part	Manufacturer	Description	Spec
+______________________________________________
+
+Bead Array	4	BD1,BD2,BD3,BD4	BK32164M121-T	TAIYO YUDEN	chip bead array	150mA, Z=120ohm, DCR=0.2
+Connector	1	CON1	SMPL20S0N0LB	Positronic	Right angle, Female	20 pin
+Capacitor	7	C1,C6,C7,C10,C11,C13,C20	CL10B104KB8NNNC	Samsung	chip capacitor	0.1uF, X7R, 10%, 50V
+Capacitor	3	C2,C9,C21	C0805C106K8RACTU	Kemet	chip capacitor	10uF, X7R, 10%, 10V
+Capacitor	7	C3,C5,C12,C19,C22,C23,C24	CL10B105KO8NNNC	Samsung	chip capacitor	1uF, X7R, 10%, 16V
+Capacitor	1	C4	CL10B474KA8NNNC	Samsung	chip capacitor	0.47uF, X7R, 10%, 25V
+Capacitor	1	C8	CL10B103KB8NNNC	Samsung	chip capacitor	10nF, X7R, 10%, 50V
+Capacitor	5	C14,C15,C16,C17,C18	CL10C2R2BB8NNNC	Samsung	chip capacitor	22pF, X7R, 10%, 50V
+POT	7	POT1,POT2,POT3,POT4,POT5,POT6,POT7	SW45009	Electo-Mech	Potentiometer	10kohm, Linear
+Resister	21	R1,R2,R3,R5,R6,R7,R10,R11,R15,R16,R18,R19,R21,R22,R23,R25,R26,R27,R29,R30,R31	RC1608J471CS	Panasonic	chip resistor	470ohm, 5%, 1/10W, 50V
+Resister	7	R4,R8,R12,R20,R24,R28,R32	RC1608J104CS	Samsung	chip resistor	100kohm, 5%, 1/10W, 50V
+Resister	2	R9,R17	RC1608J102CS	Samsung	chip resistor	1kohm, 5%, 1/10W, 50V
+Resister	2	R13,R14	RC1608J220CS	Samsung	chip resistor	22ohm, 5%, 1/10W, 50V
+Resister	1	R33	RC1608F102CS	Samsung	chip resistor	0ohm, 1%, 1/10W, 50V
+IC	2	U1,U5	LM124D	TI	Quad OP Amp	3~32V
+IC	1	U2	REF3230AIDBVT	TI	Voltage Reference IC	3.0V, 10mA
+IC	1	U3	TPS73133DBVT	TI	LDO	3.3Vout, 150mA, 30mV dropout
+IC	1	U4	TLV1548QDBREP	TI	10Bit ADC	10bit, SAR
